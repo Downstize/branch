@@ -3,5 +3,6 @@ class Main{
         System.out.print("Это добавлено в ветке main");
         System.out.print("Это первый коммит");
         System.out.print("Это второй коммит");
+        System.out.print("Это третий коммит");
     }
 }
