@@ -7,5 +7,10 @@ class Main{
         System.out.print("Это четвёртый коммит");
         System.out.print("Это пятый коммит");
         System.out.print("Это какие-либо изменения для коммита в 3 задании");
+        System.out.print("Первый коммит с ветки dev");
+        System.out.print("Второй коммит с ветки dev");
+        System.out.print("Третий коммит с ветки dev");
+        System.out.print("Четвёртый коммит с ветки dev");
+        System.out.print("Пятый коммит с ветки dev");
     }
 }
