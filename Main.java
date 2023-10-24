@@ -5,5 +5,6 @@ class Main{
         System.out.print("Это второй коммит");
         System.out.print("Это третий коммит");
         System.out.print("Это четвёртый коммит");
+        System.out.print("Это пятый коммит");
     }
 }
